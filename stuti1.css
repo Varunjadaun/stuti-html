@@ -1,0 +1,43 @@
+html{
+    background-color: #0F6292;
+
+}
+
+
+#S1{
+color:#FF78F0 ;
+text-align:center;
+font-size: xx-large;
+font-style: oblique;
+font-weight: bold;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#s2{
+    color: aliceblue;
+    font-weight: bold;
+text-align: right;
+}
+
+
+#s3{
+    
+    height:300px;
+    width:300px;
+    padding:20px;
+}
+
+
+#s4{
+    height:300px;
+    width:300px;
+    padding:20px;
+}
+
+
+#s5{
+    height:300px;
+    width:300px;
+    padding:20px;
+}
